@@ -1,6 +1,7 @@
 # Make artifacts
 config/
 target/
+env.lock
 
 
 # Byte-compiled / optimized / DLL files
