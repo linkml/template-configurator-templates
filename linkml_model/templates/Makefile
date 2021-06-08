@@ -38,7 +38,7 @@ RUN = $(ENV) && pipenv run
 # ----------------------------------------
 # TOP LEVEL TARGETS
 # ----------------------------------------
-all: install gen
+all: install gen test
 
 # ---------------------------------------
 # We don't want to pollute the python environment with linkml tool specific packages.  For this reason,
