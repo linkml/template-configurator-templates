@@ -10,6 +10,4 @@ linkml-runtime = "~=1.0, >=1.0.3"
 tox = "*"
 
 [pipenv]
-allow_prereleases = true
-
 
